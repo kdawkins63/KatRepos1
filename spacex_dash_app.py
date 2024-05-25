@@ -1,4 +1,4 @@
-# Assignment instructions https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_3/lab_theia_plotly_dash.md.html
+# KDawkins - Assignment - SkillsNetwork/labs/module_3
 
 # Steps to setup development environment
 # pip3 install pandas dash
