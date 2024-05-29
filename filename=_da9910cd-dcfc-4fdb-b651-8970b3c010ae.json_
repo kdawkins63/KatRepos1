@@ -1,0 +1,111 @@
+{
+  "Attachments": true,
+  "Progress": null,
+  "NextSteps": null,
+  "Lists": null,
+  "XP": {
+    "xp": {
+      "docsId": "da9910cd-dcfc-4fdb-b651-8970b3c010ae",
+      "totalXp": 0,
+      "currentLevel": 1,
+      "currentLevelLow": 0,
+      "currentLevelHigh": 1799,
+      "currentLevelPointsEarned": 0,
+      "nextLevel": 2,
+      "pointsUntilNextLevel": 1800,
+      "achievementCategories": {
+        "Unknown": 0,
+        "Modules": 0,
+        "Courses": 0,
+        "Qna": 0,
+        "Challenges": 0,
+        "Events": 0,
+        "LearningPaths": 0,
+        "Special": 0
+      }
+    },
+    "achievements": []
+  },
+  "SkillAssessment": null,
+  "VerifiableCredentials": {
+    "docsId": "da9910cd-dcfc-4fdb-b651-8970b3c010ae",
+    "userCredentials": []
+  },
+  "Certifications": null,
+  "Assessments": null,
+  "TechProfile": {
+    "email": "kwalkmail@yahoo.com",
+    "locale": "en-us",
+    "country": "US",
+    "contactPointTopicSetting": "OptInExplicit",
+    "isInstructor": false,
+    "isChallengeAdmin": false,
+    "isQnaModerator": false,
+    "source": "docs",
+    "authenticationModes": [
+      {
+        "id": "00037FFE19B16694",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "kwalkmail@yahoo.com",
+        "oid": "00000000-0000-0000-f824-b8caa8dde5d8",
+        "dateAcceptedPrivacyNotice": "2024-01-23T13:13:33.2269683+00:00",
+        "dateAdded": "2024-01-23T13:13:33.2269683+00:00"
+      }
+    ],
+    "transcriptSettings": {
+      "publicLink": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": {
+      "allEmail": true,
+      "autoFollowAsked": true,
+      "autoFollowAnswered": true,
+      "autoFollowCommented": true,
+      "autoFollowTagged": false,
+      "emailEventSettings": {
+        "newMention": "instant",
+        "newModeration": "instant",
+        "answerPosted": "instant",
+        "answerAccepted": "instant",
+        "commentPosted": "instant",
+        "newPrivateMessage": "instant"
+      }
+    },
+    "sharingId": "3781064C5B7F9F9",
+    "userId": "da9910cd-dcfc-4fdb-b651-8970b3c010ae",
+    "userName": "KatrinaDawkins-0987",
+    "displayName": "Katrina Dawkins",
+    "isPrivate": false,
+    "affiliations": [],
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "1/23/2024 1:13:33 PM"
+  },
+  "Challenges": null,
+  "Q&A": {
+    "docsId": "da9910cd-dcfc-4fdb-b651-8970b3c010ae",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  }
+}
