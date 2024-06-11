@@ -1,5 +1,6 @@
 # KatRepos1
-My first repository.
-First of many to come for my DS program.
+This is the repository for my SpaceX Capstone Project.
 
-Included in this repository are a collection of notebook, python, .csv and .json files. These are files I generated or used for this course and will use for the Capstone Project.
+
+Included in this repository are a collection of notebook, python, .csv and .json files. 
+These are files I generated/created for this course and will be used for the Capstone Project.
